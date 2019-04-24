@@ -1,6 +1,6 @@
-# BloomReach UI Extensions Repository
+# BloomReach Experience Manager (brXM) UI Extensions Repository
 
-This repository provides samples and production versions of BloomReach UI extensions, developed using the Open UI framework. These extensions are available for BloomReach Experience Manager version 13.0.0 and newer.
+This repository provides samples and production versions of BloomReach Experience Manager (brXM) UI extensions, developed using the Open UI framework. These extensions are available for BloomReach Experience Manager (brXM) version 13.0.0 and newer.
 
 If you want to know more about UI Extensions, how to configure them, or how to create your own, please see our [documentation](https://documentation.bloomreach.com/library/concepts/open-ui/introduction.html).
 
